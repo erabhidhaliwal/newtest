@@ -2766,26 +2766,6 @@ a {
 .cid-u50ju4g77x .media-container-row .mbr-text {
   color: #ffffff;
 }
-.cid-u52hWTp16O {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-u52hWTp16O .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u52hWTp16O .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-u52hWTp16O .row {
-  flex-direction: row-reverse;
-}
 .cid-u52hxTjneP {
   z-index: 1000;
   width: 100%;
@@ -3345,6 +3325,26 @@ a {
     padding: 1rem;
   }
 }
+.cid-u52hWTp16O {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u52hWTp16O .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u52hWTp16O .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u52hWTp16O .row {
+  flex-direction: row-reverse;
+}
 .cid-u52hxUpame {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -3416,37 +3416,6 @@ a {
 }
 .cid-u52hxWIy2B .media-container-row .mbr-text {
   color: #ffffff;
-}
-.cid-u52pPhK2I7 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-u52pPhK2I7 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u52pPhK2I7 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-u52pPhK2I7 .row {
-  flex-direction: row-reverse;
-}
-.cid-u52q3Lq3ye {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-u52q3Lq3ye .line {
-  background-color: #6592e6;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
 }
 .cid-u52pPi8alb {
   z-index: 1000;
@@ -4006,6 +3975,37 @@ a {
   .cid-u52pPi8alb .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-u52pPhK2I7 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u52pPhK2I7 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u52pPhK2I7 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u52pPhK2I7 .row {
+  flex-direction: row-reverse;
+}
+.cid-u52q3Lq3ye {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-u52q3Lq3ye .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
 .cid-u52pPiITRe {
   padding-top: 6rem;
