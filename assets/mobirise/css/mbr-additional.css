@@ -1647,6 +1647,101 @@ a {
 .cid-tL70TtsETn .mbr-section-title {
   color: #0c2c68;
 }
+.cid-u50eqxOOkS {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u50eqxOOkS .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u50eqxOOkS .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u50eqxOOkS .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-u50eqxOOkS .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-u50eqxOOkS .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-u50eqxOOkS .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-u50eqxOOkS .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u50eqxOOkS .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-u50eqxOOkS .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-u50eqxOOkS .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-u4KzhD24Y2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/india-coin-market-2000x1124.png");
+}
+.cid-u4KzhD24Y2 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u4KzhD24Y2 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 767px) {
+  .cid-u4KzhD24Y2 .card-content-text {
+    padding: 1.5rem 1.5rem 0 1.5rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u4KzhD24Y2 .card-content-text {
+    padding: 2.25rem 2.25rem 0 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u4KzhD24Y2 .card-content-text {
+    padding: 4rem 4rem 1rem 4rem;
+  }
+}
+.cid-u4KzhD24Y2 .card-wrapper {
+  background: #ffffff;
+}
+.cid-u4KzhD24Y2 .mbr-text,
+.cid-u4KzhD24Y2 .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-u4KzhD24Y2 .card-title,
+.cid-u4KzhD24Y2 .card-box {
+  text-align: left;
+  color: #000000;
+}
 .cid-tJGRlgYbKj {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1733,51 +1828,6 @@ a {
 }
 .cid-tJGRlgYbKj .panel-title-edit,
 .cid-tJGRlgYbKj .mbr-iconfont {
-  color: #000000;
-}
-.cid-u4KzhD24Y2 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/india-coin-market-2000x1124.png");
-}
-.cid-u4KzhD24Y2 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u4KzhD24Y2 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 767px) {
-  .cid-u4KzhD24Y2 .card-content-text {
-    padding: 1.5rem 1.5rem 0 1.5rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-u4KzhD24Y2 .card-content-text {
-    padding: 2.25rem 2.25rem 0 2.25rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-u4KzhD24Y2 .card-content-text {
-    padding: 4rem 4rem 1rem 4rem;
-  }
-}
-.cid-u4KzhD24Y2 .card-wrapper {
-  background: #ffffff;
-}
-.cid-u4KzhD24Y2 .mbr-text,
-.cid-u4KzhD24Y2 .mbr-section-btn {
-  color: #000000;
-  text-align: left;
-}
-.cid-u4KzhD24Y2 .card-title,
-.cid-u4KzhD24Y2 .card-box {
-  text-align: left;
   color: #000000;
 }
 .cid-u4KBDoVfMH {
